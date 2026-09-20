@@ -24,6 +24,12 @@ All paintings are public domain (artist died 1900). Sourced from Wikimedia Commo
 3. **Evening Bells** (1892) — sunset river, monastery bells
 4. **Above Eternal Quiet** (1894) — silver clouds over the great river
 5. **The Birch Grove** (1889) — white trunks in green light
+6. **Evening. Golden Plyos** (1889) — church hill over the glowing Volga
+7. **The Lake** (1899–1900) — his last great canvas, festive clouds over water
+8. **After the Rain. Plyos** (1889) — wet decks and a clearing sky
+9. **Evening on the Volga** (1887–1888) — moody dusk, moored boats
+10. **Autumn Day. Sokolniki** (1879) — a lonely figure on an alley of gold
+11. **The Oak** (1880) — a mighty tree over the ravine
 
 ## Install
 
