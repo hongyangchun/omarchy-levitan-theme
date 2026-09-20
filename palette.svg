@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+  <rect width="800" height="450" fill="#1A1B1E"/>
+  <text x="40" y="60" fill="#D6CFC0" font-family="serif" font-size="28">Levitan — Twilight Gallery</text>
+  <text x="40" y="88" fill="#8A8577" font-family="serif" font-size="14">Isaac Levitan · 1860–1900 · mood landscapes</text>
+  <g font-family="monospace" font-size="13">
+    <rect x="40"  y="120" width="160" height="110" rx="8" fill="#1A1B1E" stroke="#3A382F"/><text x="48"  y="250" fill="#D6CFC0">#1A1B1E bg</text>
+    <rect x="215" y="120" width="160" height="110" rx="8" fill="#D6CFC0"/><text x="223" y="250" fill="#D6CFC0">#D6CFC0 fg</text>
+    <rect x="390" y="120" width="160" height="110" rx="8" fill="#C9A227"/><text x="398" y="250" fill="#D6CFC0">#C9A227 accent</text>
+    <rect x="565" y="120" width="160" height="110" rx="8" fill="#A85D4E"/><text x="573" y="250" fill="#D6CFC0">#A85D4E red</text>
+    <rect x="40"  y="290" width="160" height="110" rx="8" fill="#6B7A4F"/><text x="48"  y="420" fill="#D6CFC0">#6B7A4F green</text>
+    <rect x="215" y="290" width="160" height="110" rx="8" fill="#5B7A99"/><text x="223" y="420" fill="#D6CFC0">#5B7A99 blue</text>
+    <rect x="390" y="290" width="160" height="110" rx="8" fill="#9B7B96"/><text x="398" y="420" fill="#D6CFC0">#9B7B96 magenta</text>
+    <rect x="565" y="290" width="160" height="110" rx="8" fill="#7FA3A8"/><text x="573" y="420" fill="#D6CFC0">#7FA3A8 cyan</text>
+  </g>
+</svg>

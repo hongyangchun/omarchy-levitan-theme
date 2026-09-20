@@ -1,0 +1,50 @@
+mode = "dark"
+
+# ── Levitan "Twilight Gallery" palette ──
+# Extracted from Isaac Levitan's mood landscapes:
+#   background  — the dark canvas edge of "Above Eternal Quiet"
+#   foreground  — warm parchment of "Golden Autumn" skies
+#   accent      — gilded sunset of "Evening Bells"
+
+background = "#1A1B1E"
+dark_background = "#141518"
+darker_background = "#101113"
+lighter_background = "#232529"
+
+foreground = "#D6CFC0"
+dark_foreground = "#8A8577"
+light_foreground = "#E8E1D0"
+bright_foreground = "#F2EADA"
+
+# Accent: gilded sunset light from "Evening Bells"
+accent = "#C9A227"
+
+# Selection: warm parchment wash
+selection = "#3A382F"
+selection_background = "#2E2C26"
+
+# Cursor
+cursor = "#C9A227"
+cursor_background = "#1A1B1E"
+
+# ── ANSI palette — one jewel per painting ──
+# red    — autumn foliage ember (Golden Autumn)
+# green  — birch grove canopy (Birch Grove)
+# yellow — golden birch crowns (Golden Autumn)
+# blue   — March sky over snow (March)
+# magenta — twilight clouds (Above Eternal Quiet)
+# cyan   — still river grey-blue (Above Eternal Quiet)
+
+red = "#A85D4E"
+green = "#6B7A4F"
+yellow = "#C9A227"
+blue = "#5B7A99"
+magenta = "#9B7B96"
+cyan = "#7FA3A8"
+
+bright_red = "#C97B6A"
+bright_green = "#8BA06A"
+bright_yellow = "#E0BC4A"
+bright_blue = "#7D9CBF"
+bright_magenta = "#B99BB8"
+bright_cyan = "#9CC4C9"
