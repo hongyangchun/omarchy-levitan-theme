@@ -46,3 +46,7 @@ omarchy wallpaper next
 ## License
 
 Wallpapers: public domain (PD-Art). Theme files: MIT.
+
+---
+
+> This theme was made with the [omarchy-theme-skill](https://github.com/hongyangchun/omarchy-theme-skill) - the pipeline that sources art, builds palettes and ships the repo.
